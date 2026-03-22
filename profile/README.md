@@ -1,56 +1,58 @@
 # Xian Technology
-***[ sh ee - ah n ]***
+***[ shee - ahn ]***
 
-*An immortal or mythical being from the Taoist pantheon.*
+*A xian is an immortal or transcendent being in Taoist tradition.*
 
-Python-native contracting on a CometBFT backbone. Write real Python smart contracts — no transpilers, no DSLs — on a blockchain built for clarity, safety, and adoption.
+Xian Technology builds the software stack behind the Xian ecosystem: the
+CometBFT-facing node, the Python-native contract runtime, operator tooling,
+SDKs, documentation, standards, and AI surfaces that make Xian practical to
+build on.
 
-## What We Build
+Write real Python smart contracts. Run real infrastructure. Ship with tools
+designed for developers, operators, and ecosystem builders.
 
-**Xian Technology** advances the core infrastructure behind the [Xian Network](https://github.com/xian-network). We develop the tools, SDKs, documentation, and developer experience that make building on Xian accessible to any Python developer.
+## Main Repositories
 
-### 🔗 Core
+| Category | Repository | Description |
+|---|---|---|
+| Core protocol | [**xian-abci**](https://github.com/xian-technology/xian-abci) | CometBFT-facing Xian node application and consensus interface |
+| Core protocol | [**xian-contracting**](https://github.com/xian-technology/xian-contracting) | Python-native smart contract engine powering Xian |
+| Node operations | [**xian-cli**](https://github.com/xian-technology/xian-cli) | Operator CLI for Xian networks and node lifecycle |
+| Node operations | [**xian-configs**](https://github.com/xian-technology/xian-configs) | Canonical network configs, genesis data, and contract manifests |
+| Node operations | [**xian-stack**](https://github.com/xian-technology/xian-stack) | Runtime backend and containerized stack for local and networked environments |
+| Node operations | [**xian-deploy**](https://github.com/xian-technology/xian-deploy) | Linux-focused deployment playbooks for released Xian node images |
+| Developer tooling | [**xian-py**](https://github.com/xian-technology/xian-py) | Python SDK for wallets, transactions, contracts, and async integrations |
+| Developer tooling | [**xian-linter**](https://github.com/xian-technology/xian-linter) | Contract linting and validation rules for Xian smart contracts |
+| Developer tooling | [**xian-playground-web**](https://github.com/xian-technology/xian-playground-web) | Browser playground for writing, linting, deploying, and testing contracts |
+| Developer tooling | [**xian-mcp-server**](https://github.com/xian-technology/xian-mcp-server) | MCP server for AI assistants to interact with Xian wallets, contracts, and on-chain flows |
+| Standards and examples | [**xian-xips**](https://github.com/xian-technology/xian-xips) | Standard contract specifications and reference implementations |
+| Standards and examples | [**xian-contracts**](https://github.com/xian-technology/xian-contracts) | Example smart contracts written in Python for the Xian ecosystem |
+| Standards and examples | [**xian-contracting-hub-web**](https://github.com/xian-technology/xian-contracting-hub-web) | Curated smart contract hub for the broader ecosystem |
+| AI and agents | [**xian-intentkit**](https://github.com/xian-technology/xian-intentkit) | Framework for building AI agents with reusable skills and blockchain actions |
+| AI and agents | [**xian-ai-guides**](https://github.com/xian-technology/xian-ai-guides) | LLM context guides for contracts, GraphQL queries, and tests |
+| AI and agents | [**xian-ai-skills**](https://github.com/xian-technology/xian-ai-skills) | Reusable agent skills for SDK, node, and contract-development workflows |
+| AI and agents | [**xian-tg-bot**](https://github.com/xian-technology/xian-tg-bot) | Plugin-first Telegram bot framework for Xian |
+| Docs and web | [**xian-docs-web**](https://github.com/xian-technology/xian-docs-web) | Source for the Xian Technology documentation site |
+| Docs and web | [**xian-technology-web**](https://github.com/xian-technology/xian-technology-web) | Source for the Xian Technology website |
+| Docs and web | [**xian-meta**](https://github.com/xian-technology/xian-meta) | Shared repository conventions and cross-repo meta guidance |
+| Docs and web | [**.github**](https://github.com/xian-technology/.github) | Organization profile and community health files |
 
-| Repository | Description |
-|---|---|
-| [**xian-abci**](https://github.com/xian-technology/xian-abci) | ABCI application for CometBFT — the consensus interface powering Xian |
-| [**xian-contracting**](https://github.com/xian-technology/xian-contracting) | Python-native smart contract engine |
-| [**xian-stack**](https://github.com/xian-technology/xian-stack) | Docker-based node deployment — mainnet, testnet, and custom networks |
-| [**xian-contracts**](https://github.com/xian-technology/xian-contracts) | Example smart contracts written in Python |
-| [**xian-xips**](https://github.com/xian-technology/xian-xips) | Xian Standard Contracts (XSC) — standardized specs and reference implementations |
+## Links
 
-### 🛠️ Developer Tools
+- [xian.technology](https://xian.technology) - Xian Technology website
+- [docs.xian.technology](https://docs.xian.technology) - Main overall Xian Technology docs
+- [xian.org](https://xian.org) - Xian Network website
+- [docs.xian.org](https://docs.xian.org) - Xian Network documentation
+- [playground.xian.technology](https://playground.xian.technology) - Smart contract playground
 
-| Repository | Description |
-|---|---|
-| [**xian-py**](https://github.com/xian-technology/xian-py) | Python SDK — wallets, transactions, contracts, async support |
-| [**xian-linter**](https://github.com/xian-technology/xian-linter) | Smart contract linter — PyFlakes + Contracting validation rules |
-| [**xian-playground-web**](https://github.com/xian-technology/xian-playground-web) | Browser IDE for writing, linting, deploying, and testing contracts |
-| [**xian-mcp-server**](https://github.com/xian-technology/xian-mcp-server) | MCP server for AI assistants to interact with the blockchain |
-| [**xian-tg-bot**](https://github.com/xian-technology/xian-tg-bot) | Plugin-first Telegram bot framework for Xian |
+## Community
 
-### 🤖 AI & Agents
+- [Telegram](https://t.me/xian_network)
+- [Discord](https://discord.gg/8W9ZMxUYuA)
+- [Forum](https://forum.xian.org)
 
-| Repository | Description |
-|---|---|
-| [**xian-intentkit**](https://github.com/xian-technology/xian-intentkit) | Framework for building AI agents with blockchain skills |
-| [**xian-ai-guides**](https://github.com/xian-technology/xian-ai-guides) | LLM context guides for generating contracts, queries, and tests |
-| [**xian-ai-skills**](https://github.com/xian-technology/xian-ai-skills) | AI agent skills — SDK usage, node management, contract development |
-
-## Live
-
-- 🌐 [xian.technology](https://xian.technology) — Official website
-- 🧪 [playground.xian.technology](https://playground.xian.technology) — Smart contract playground
-- 📚 [docs.xian.org](https://docs.xian.org) — Documentation
-
-## Network
+## Live Network
 
 - **Chain ID:** `xian-network-1`
 - **Public Node:** [node.xian.org](https://node.xian.org)
 - **Block Explorer:** [explorer.xian.org](https://explorer.xian.org)
-
-## Community
-
-- 💬 [Telegram](https://t.me/xian_network)
-- 🎮 [Discord](https://discord.gg/8W9ZMxUYuA)
-- 📣 [Forum](https://forum.xian.org)
