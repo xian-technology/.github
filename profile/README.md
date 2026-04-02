@@ -47,6 +47,7 @@ applications.
 | [**xian-docs-web**](https://github.com/xian-technology/xian-docs-web) | Source for the Xian Technology documentation site |
 | [**xian-technology-web**](https://github.com/xian-technology/xian-technology-web) | Source for the Xian Technology website |
 | [**xian-meta**](https://github.com/xian-technology/xian-meta) | Shared repository conventions and cross-repo meta guidance |
+| [**.github**](https://github.com/xian-technology/.github) | Organization profile and community health files |
 
 ## Links
 
