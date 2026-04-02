@@ -28,7 +28,9 @@ applications.
 | [**xian-stack**](https://github.com/xian-technology/xian-stack) | Runtime backend and containerized stack for local and networked environments |
 | [**xian-deploy**](https://github.com/xian-technology/xian-deploy) | Linux-focused deployment playbooks for released Xian node images |
 | **Developer tooling** | |
+| [**xian-js**](https://github.com/xian-technology/xian-js) | JavaScript / TypeScript SDK for browser apps, wallets, providers, and dapps |
 | [**xian-py**](https://github.com/xian-technology/xian-py) | Python SDK for wallets, transactions, contracts, and async integrations |
+| [**xian-wallet-browser**](https://github.com/xian-technology/xian-wallet-browser) | Browser wallet for Xian built on the official JS / TS SDK |
 | [**xian-linter**](https://github.com/xian-technology/xian-linter) | Contract linting and validation rules for Xian smart contracts |
 | [**xian-playground-web**](https://github.com/xian-technology/xian-playground-web) | Browser playground for writing, linting, deploying, and testing contracts |
 | [**xian-mcp-server**](https://github.com/xian-technology/xian-mcp-server) | MCP server for AI assistants to interact with Xian wallets, contracts, and on-chain flows |
