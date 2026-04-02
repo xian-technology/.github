@@ -3,13 +3,17 @@
 
 *A xian is an immortal or transcendent being in Taoist tradition.*
 
-Xian Technology builds the software stack behind the Xian ecosystem: the
-CometBFT-facing node, the Python-native contract runtime, operator tooling,
-SDKs, documentation, standards, and AI surfaces that make Xian practical to
-build on.
+Xian Technology builds a Python-first decentralized application platform.
 
-Write real Python smart contracts. Run real infrastructure. Ship with tools
-designed for developers, operators, and ecosystem builders.
+Xian is designed for teams that need programmable networks, simple but powerful
+smart contracts, and clean integration with normal software systems.
+
+The project optimizes for ease of use, flexible network composition, and
+operational clarity over raw throughput benchmarks.
+
+Use decentralization like a tool: write Python-friendly smart contracts, run
+app-specific networks, and integrate programmable shared state into real
+applications.
 
 ## Main Repositories
 
