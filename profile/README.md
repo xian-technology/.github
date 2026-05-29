@@ -59,6 +59,7 @@ applications.
 - [xian.technology](https://xian.technology) - Xian Technology website
 - [docs.xian.technology](https://docs.xian.technology) - Main overall Xian Technology docs
 - [playground.xian.technology](https://playground.xian.technology) - Smart contract playground
+- [Security policy](../SECURITY.md) - Responsible disclosure and vulnerability handling
 
 ## Live Network
 
