@@ -27,6 +27,7 @@ applications.
 | [**xian-configs**](https://github.com/xian-technology/xian-configs) | Canonical network configs, genesis data, and contract manifests |
 | [**xian-stack**](https://github.com/xian-technology/xian-stack) | Runtime backend and containerized stack for local and networked environments |
 | [**xian-deploy**](https://github.com/xian-technology/xian-deploy) | Linux-focused deployment playbooks for released Xian node images |
+| [**xian-governance-web**](https://github.com/xian-technology/xian-governance-web) | Validator governance operations console for proposals, voting, and chain status |
 | **Developer tooling** | |
 | [**xian-js**](https://github.com/xian-technology/xian-js) | JavaScript / TypeScript SDK for browser apps, wallets, providers, and dapps |
 | [**xian-py**](https://github.com/xian-technology/xian-py) | Python SDK for wallets, transactions, contracts, and async integrations |
@@ -47,6 +48,9 @@ applications.
 | [**xian-ai-skills**](https://github.com/xian-technology/xian-ai-skills) | Reusable agent skills for SDK, node, and contract-development workflows |
 | [**xian-tg-bot**](https://github.com/xian-technology/xian-tg-bot) | Plugin-first Telegram bot framework for Xian |
 | **Apps and integrations** | |
+| [**xian-dex**](https://github.com/xian-technology/xian-dex) | Xian DEX contracts and SnakX web frontend |
+| [**xian-dex-automation**](https://github.com/xian-technology/xian-dex-automation) | Deterministic DEX automation sidecar for event-driven trading rules |
+| [**xian-nft-web**](https://github.com/xian-technology/xian-nft-web) | XSC-0005 NFT marketplace for discovering, minting, and listing collections |
 | [**xian-bridge**](https://github.com/xian-technology/xian-bridge) | Private bridge service for secure cross-chain transfers between Solana and Xian |
 | **Docs and web** | |
 | [**xian-docs-web**](https://github.com/xian-technology/xian-docs-web) | Source for the Xian Technology documentation site |
