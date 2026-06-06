@@ -23,7 +23,7 @@ applications.
 | [**xian-abci**](https://github.com/xian-technology/xian-abci) | CometBFT-facing Xian node application and consensus interface |
 | [**xian-contracting**](https://github.com/xian-technology/xian-contracting) | Python-native smart contract engine powering Xian |
 | **Node operations** | |
-| [**xian-cli**](https://github.com/xian-technology/xian-cli) | Operator CLI for network setup, node lifecycle, diagnostics, and generic contract helpers |
+| [**xian-cli**](https://github.com/xian-technology/xian-cli) | CLI for network setup, node lifecycle, diagnostics, and generic contract helpers |
 | [**xian-configs**](https://github.com/xian-technology/xian-configs) | Canonical network configs, genesis data, templates, and system contract bundles |
 | [**xian-stack**](https://github.com/xian-technology/xian-stack) | Runtime backend and containerized stack for local and networked environments |
 | [**xian-deploy**](https://github.com/xian-technology/xian-deploy) | Linux-focused deployment playbooks for released Xian node images |
