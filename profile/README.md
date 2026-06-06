@@ -15,21 +15,6 @@ Use decentralization like a tool: write Python-friendly smart contracts, run
 app-specific networks, and integrate programmable shared state into real
 applications.
 
-## Repository Boundaries
-
-Xian keeps network setup separate from application deployment:
-
-- `xian-configs` owns network-level assets: manifests, templates, genesis data,
-  and system contract bundles.
-- `xian-cli` owns operator workflows for networks, nodes, diagnostics, generic
-  contract bundle validation, and transaction helpers.
-- Product and protocol repos own their own contracts, hash-pinned bundles,
-  bootstrap scripts, and web frontends.
-- `xian-contracts` and SDK example folders hold single-contract references and
-  small integration examples.
-- Agent-facing guidance lives in dedicated AI repos instead of being embedded in
-  product catalogs.
-
 ## Main Repositories
 
 | Repository | Description |
