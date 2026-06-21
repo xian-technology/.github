@@ -64,12 +64,17 @@ applications.
 - [playground.xian.technology](https://playground.xian.technology) - Smart contract playground
 - [Security policy](../SECURITY.md) - Responsible disclosure and vulnerability handling
 
-## Live Network
+## Currently Running Public Network
 
-- [xian.org](https://xian.org) - Xian Network website
-- [docs.xian.org](https://docs.xian.org) - Xian Network documentation
-- **Chain ID:** `xian-network-1`
-- **Public Node:** [node.xian.org](https://node.xian.org)
+The currently running public Xian network uses an older, incompatible codebase.
+The repositories above are the current Xian Technology codebase and do not
+target that network by default.
+
+- [xian.org](https://xian.org) - currently running public network website
+- [docs.xian.org](https://docs.xian.org) - currently running public network documentation
+- **Mainnet chain ID:** `xian-1`
+- **Mainnet public node:** [node.xian.org](http://node.xian.org)
+- **Legacy testnet chain ID:** `xian-testnet-13`
 - **Block Explorer:** [explorer.xian.org](https://explorer.xian.org)
 
 ### Community
