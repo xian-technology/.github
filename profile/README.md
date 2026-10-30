@@ -106,7 +106,6 @@ not a default target for these repositories.
 | [xian-docs-web](https://github.com/xian-technology/xian-docs-web) | Source for the Xian Technology documentation site |
 | [xian-technology-web](https://github.com/xian-technology/xian-technology-web) | Source for the Xian Technology website |
 | [xian-meta](https://github.com/xian-technology/xian-meta) | Workspace inventory, shared conventions, cross-repository designs, and launch planning |
-| [.github](https://github.com/xian-technology/.github) | Organization profile, shared GitHub metadata, and security policy |
 
 ## Contributing and Community
 
